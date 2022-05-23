@@ -829,8 +829,9 @@ h4 {
     background-image: url("img/agence-la-panthere.jpg");
 }
 
+/*IMG JPG CONVERTED*/
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 
@@ -1109,4 +1110,19 @@ h4 {
     margin: auto;
     margin-bottom: 20px;
 
+}
+
+.row-footer {
+    display: flex;
+    justify-content: space-around;
+    margin: 0 10px;
+}
+
+.row-footer h4 {
+    color: black;
+}
+
+.footer-link a {
+    text-decoration: none;
+    color: black;
 }

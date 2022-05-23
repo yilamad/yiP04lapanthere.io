@@ -90,11 +90,11 @@ a:hover {
     right: 0;
 }
 
-.texture-paper::before {
+/*.texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
 }
-
+*/
 .b-parallax {
     background-attachment: fixed;
 }
@@ -658,7 +658,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757 !important;
+    /*color: #575757 !important;*/
 }
 
 .container {
@@ -729,10 +729,10 @@ h3 {
     box-shadow: 0px 0px 0px #000000;
 }
 
-h1 {
+/*h1 {
     color: #333333 !important;
 }
-
+*/
 h4 {
     color: #333333 !important;
 }
@@ -782,7 +782,8 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C !important;
+    color: white;
+
 }
 
 .btn-atomic-tangerine {
@@ -832,15 +833,7 @@ h4 {
     background-image: url("img/image-de-presentation.bmp");
 }
 
-/*CSS CORRECTION*/
-.img-replacement {
-    font-size: 15px;
-    font-weight: 400;
-}
 
-.text-center {
-    font-size: 14px;
-}
 
 @media (max-width: 1024px) {
     .bloc {
@@ -1092,4 +1085,28 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+/*CSS CORRECTION*/
+.img-replacement {
+    font-size: 17px;
+    font-weight: 400;
+}
+
+.text-center {
+    font-size: 15px;
+}
+
+.tight-width-whitespace {
+    font-size: 19px;
+
+}
+
+.page2-text-bloc {
+    font-weight: bold;
+    font-size: 20px;
+    max-width: 600px;
+    margin: auto;
+    margin-bottom: 20px;
+
 }

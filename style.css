@@ -708,7 +708,8 @@ p {
 
 .social {
     max-width: 400px;
-    margin: auto auto auto auto;
+    margin: auto;
+    padding: 10px;
 }
 
 h2 {
@@ -1120,6 +1121,11 @@ h4 {
 
 .row-footer h4 {
     color: black;
+    margin-left: 40px;
+}
+
+.footer-link {
+    list-style-type: none;
 }
 
 .footer-link a {

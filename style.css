@@ -788,12 +788,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #c27956;
     color: #FFFFFF !important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956 !important;
+    background: #F3976C !important;
     color: #FFFFFF !important;
 }
 
@@ -1154,15 +1154,21 @@ h1 {
 
 }
 
+.col-sm-6 img {
+    width: auto;
+    height: auto;
+}
+
+.col-sm-6 p {
+    color: #333333;
+}
+
 .h2-section5 {
 
     font-size: 20px;
 }
 
-.col-sm-6 img {
-    width: auto;
-    height: auto;
-}
+
 
 
 /*NEW MEDIA QUERIES*/

@@ -744,7 +744,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF !important;
+    color: #FFFAFA !important;
 }
 
 .portfolio-thumb {
@@ -783,7 +783,7 @@ h4 {
 }
 
 .tc-white {
-    color: white;
+    color: #FFFAFA;
 
 }
 
@@ -1178,6 +1178,10 @@ h1 {
 
 #form_1 {
     margin-bottom: 10px;
+}
+
+.page2-text-bloc {
+    color: #FFFAFA;
 }
 
 /*NEW MEDIA QUERIES*/

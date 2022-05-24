@@ -818,16 +818,16 @@ h4 {
     border-color: #364577 !important;
 }
 
-.bg-dots-bg {
+/*.bg-dots-bg {
     background-image: url("img/dots-bg.png");
 }
 
 .bg-lines-h2-bg {
     background-image: url("img/lines-h2-bg.png");
 }
-
+*/
 .bg-banniere {
-    background-image: url("img/agence-la-panthere.jpg");
+    background-image: url("img/agence-la-pantheresquooosh.jpg");
 }
 
 /*IMG JPG CONVERTED*/
@@ -1159,6 +1159,10 @@ h1 {
     font-size: 20px;
 }
 
+.col-sm-6 img {
+    width: auto;
+    height: auto;
+}
 
 
 /*NEW MEDIA QUERIES*/

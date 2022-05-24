@@ -779,7 +779,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #c27956;
 }
 
 .tc-white {
@@ -1183,7 +1183,7 @@ h1 {
         display: inline-block;
     }
 
-    .row-footer h4 {
+    .row-footer h3 {
         margin-left: 30px;
     }
 
